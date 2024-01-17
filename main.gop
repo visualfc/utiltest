@@ -1,0 +1,4 @@
+import "github.com/visualfc/utiltest/utils"
+
+utils.Test()
+println "world"
